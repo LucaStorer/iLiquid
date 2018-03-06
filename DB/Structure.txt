@@ -1,0 +1,25 @@
+Tabella: coil
+
+ID:
+Date:
+Marca:
+Descrizione:
+Note:
+
+Tabella: Liquid
+
+ID:
+DATE:
+NAME:
+BASE_ML_1:
+BASE_MG_1:
+BASE_ML_2:
+BASE_MG_2:
+BASE_ML_3:
+BASE_MG_3:
+PERC_AROMA:
+AROMA_ML:
+TOTAL_ML:
+NICOTINE_MG:
+NOTE:
+DELETE:
